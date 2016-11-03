@@ -2,14 +2,13 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
-    <name> -- <role> -- <twitter>
+    Thanks to - Marina Mele -- Developer -- @marina_mele
 
 # THANKS
-
-    <name>
+    Thanks to all her Blogs, who encouraged me to write the
+    TaskBuster Django Tutorial
 
 # TECHNOLOGY COLOPHON
-
-    HTML5, CSS3
-    jQuery, Modernizr
+    Django
+    HTML5 Boilerplate
+    Twitter Bootstrap
